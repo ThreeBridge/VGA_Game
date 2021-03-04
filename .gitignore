@@ -1,0 +1,14 @@
+
+VGA\.cache/
+
+VGA\.hw/
+
+VGA\.ip_user_files/
+
+VGA\.runs/
+
+VGA\.sim/
+
+VGA\.xpr
+
+tb_VGA_behav\.wcfg
